@@ -1,0 +1,19 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color:#888888;
+}
+canvas{
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  width: 99vw;
+  height: 100vh;
+  background-color: #E0FFFF;
+}
+textarea {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  height: 200px;
+}
